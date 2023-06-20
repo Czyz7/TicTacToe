@@ -1,4 +1,4 @@
-# Tic Tac Toe
+# Tic Tac Toe created by AI
 
 # Create the game board
 board = [' ' for _ in range(9)]
